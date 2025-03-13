@@ -48,7 +48,7 @@ bcrypt==4.2.0
 beautifulsoup4==4.12.3
 bidict==0.23.1
 billiard==4.2.1
-binwalk==2.4.3
+binwalk==2.1.0
 bitstruct==8.19.0
 bleach==6.2.0
 blinker==1.8.2
